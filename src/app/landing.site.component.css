@@ -27,5 +27,9 @@
     padding: 3% 1% 0;
   }
   .card{
-    margin: 20px;
+    margin: 5%;
+  }
+  .Menu{
+    margin: auto;
+    text-align: center;
   }
